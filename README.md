@@ -3,7 +3,7 @@ any films for about 2 years :D. I am keen on Vocaloid and games better). I have 
 
 - 👀 I am interested in coding as well, of course. I have been quite fluent in Pascal, C++ and BATCH (yeah, when I was a student in a secondary school, I learnt it myself
 before I started learning Pascal, and now I even do not know why I did do it haha, I was such a stupid boy :') ). Just since 2021, C++ has been my favourite
-programming language. And up to now, I have known just some algorithms (too embarassed ^//^). Next year, when I graduate GCSE, I will continue to do it at my
+programming language. And up to now, I have known just some algorithms (very embarassed ^//^). Next year, when I graduate GCSE, I will continue to do it at my
 university...
 
 - 🌱 I am currently learning things that I need for the next GCSE. I will continue to develope my projects when I have time (I am quite busy ;) )
