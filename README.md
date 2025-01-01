@@ -2,7 +2,7 @@
 
 - However, my English is not really fluent. I have never joined any IELTS courses, so I hope you will remind me correcting my mistakes.
 
-- 👀 After graduating my hight school, I have chosen a university. Have been studying there for one more year, my coding skill doesnt improve so much, however. Programming languages I have been learning C++ and Java. C and Pascal are the past...
+- 👀 After graduating my hight school, I have chosen a university. Have been studying there for more than one year, my coding skill doesnt improve so much, however. Programming languages I have been learning C++ and Java. C and Pascal are the past...
 
 - 🌱 I am busy. Being busy to do anything.
 - 💞️ If you would like to contribute to my projects, feel free
